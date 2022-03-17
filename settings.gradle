@@ -1,0 +1,2 @@
+rootProject.name='DeliverHealth'
+include ':app'
